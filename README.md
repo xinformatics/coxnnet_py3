@@ -8,9 +8,14 @@
 
 This updated code works for 
 
-# pandas==0.25.1
-# numpy==1.17.2
-# scikit-learn==0.21.3
-# Theano==1.0.4
-# tqdm==4.36.1
-# dill==0.3.3.1 (replaced cPickle in the original implementation)
+pandas==0.25.1
+
+numpy==1.17.2
+
+scikit-learn==0.21.3
+
+Theano==1.0.4
+
+tqdm==4.36.1
+
+dill==0.3.3.1 (replaced cPickle in the original implementation)
