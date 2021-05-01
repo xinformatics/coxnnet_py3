@@ -4,7 +4,8 @@
  ![logo](nn.png)
 
 ## Original code belongs to Dr Garmire's group at University of Michigan. 
-## Original paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006076
+## Coxnnet V1 (2018): Original paper:  https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006076
+## Coxnnet V2 (2020): Original paper:  https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab046/6124280
 
 This updated code works for 
 
